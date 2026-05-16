@@ -14,6 +14,16 @@ This project is a Python-based network sniffer that captures and analyzes networ
 - Python
 - Scapy
 
+## Windows Requirement
+
+This project requires Npcap for packet sniffing on Windows.
+
+Download:
+https://npcap.com/#download
+
+During installation enable:
+- WinPcap API-compatible Mode
+
 ## Installation
 
 Install Scapy:
